@@ -33,4 +33,10 @@ Since this extension is not on the Chrome Web Store, you need to install it manu
 
 ## 📄 License
 
-This project is for educational purposes. All rights to the generated images belong to their respective creators and platform terms.
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## ⚠️ Disclaimer
+
+This project is developed strictly for **educational purposes** to demonstrate client-side image processing techniques, reverse alpha blending algorithms, and browser extension architecture.
+
+The author does not encourage violating any platform's Terms of Service. All rights regarding the generated images and the watermarking technology belong to Google. Use this software responsibly.
